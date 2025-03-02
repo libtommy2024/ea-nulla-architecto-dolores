@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/ea-nulla-architecto-dolores",
-  "version": "11.27.272",
+  "version": "11.27.273",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -682,5 +682,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/ea-nulla-architecto-dolores/issues"
   },
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.7.0"
 }
